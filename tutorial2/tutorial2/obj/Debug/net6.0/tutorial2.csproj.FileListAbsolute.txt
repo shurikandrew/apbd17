@@ -1,0 +1,15 @@
+/Users/shurikandrew/apbd17/tutorial2/tutorial2/bin/Debug/net6.0/tutorial2
+/Users/shurikandrew/apbd17/tutorial2/tutorial2/bin/Debug/net6.0/tutorial2.deps.json
+/Users/shurikandrew/apbd17/tutorial2/tutorial2/bin/Debug/net6.0/tutorial2.runtimeconfig.json
+/Users/shurikandrew/apbd17/tutorial2/tutorial2/bin/Debug/net6.0/tutorial2.dll
+/Users/shurikandrew/apbd17/tutorial2/tutorial2/bin/Debug/net6.0/tutorial2.pdb
+/Users/shurikandrew/apbd17/tutorial2/tutorial2/obj/Debug/net6.0/tutorial2.csproj.AssemblyReference.cache
+/Users/shurikandrew/apbd17/tutorial2/tutorial2/obj/Debug/net6.0/tutorial2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shurikandrew/apbd17/tutorial2/tutorial2/obj/Debug/net6.0/tutorial2.AssemblyInfoInputs.cache
+/Users/shurikandrew/apbd17/tutorial2/tutorial2/obj/Debug/net6.0/tutorial2.AssemblyInfo.cs
+/Users/shurikandrew/apbd17/tutorial2/tutorial2/obj/Debug/net6.0/tutorial2.csproj.CoreCompileInputs.cache
+/Users/shurikandrew/apbd17/tutorial2/tutorial2/obj/Debug/net6.0/tutorial2.dll
+/Users/shurikandrew/apbd17/tutorial2/tutorial2/obj/Debug/net6.0/refint/tutorial2.dll
+/Users/shurikandrew/apbd17/tutorial2/tutorial2/obj/Debug/net6.0/tutorial2.pdb
+/Users/shurikandrew/apbd17/tutorial2/tutorial2/obj/Debug/net6.0/tutorial2.genruntimeconfig.cache
+/Users/shurikandrew/apbd17/tutorial2/tutorial2/obj/Debug/net6.0/ref/tutorial2.dll
