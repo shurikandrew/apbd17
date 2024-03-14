@@ -13,11 +13,11 @@
 static int maxElement(int[] arr)
 {
     int result = arr[0];
-    for (int i = 1; i < arr.Length; i++)
+    for (int newName = 1; newName < arr.Length; newName++)
     {
-        if (result < arr[i])
+        if (result < arr[newName])
         {
-            result = arr[i];
+            result = arr[newName];
         }
     }
     return result;
